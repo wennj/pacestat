@@ -214,13 +214,3 @@ hist_paceDistribution <- function(data,
     
   }
 }
-
-
-
-
-
-
-
-
-
-
